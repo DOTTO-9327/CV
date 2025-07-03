@@ -1,0 +1,20 @@
+p {
+    color: black;
+}
+
+h2 {
+    color: black;
+}
+
+header{
+    background-color: gray;
+}
+
+aside{
+    background-color: gray;
+}
+
+#corps{
+    display: flex;
+    flex-direction:row-reverse;
+}
